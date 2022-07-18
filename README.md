@@ -9,9 +9,9 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lua-nadai&theme=rogue&hide_border=true&area=true)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanadai/)](https://www.linkedin.com/in/luanadai/)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Instagram-f56c48?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/afsnadai/)](https://www.instagram.com/afsnadai/)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-f56c48?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/afsnadai/)](https://www.instagram.com/afsnadai/)&nbsp;
  
-  ### Main skills:
+### Main skills:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
