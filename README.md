@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5592e2,40:8739c1,100:d12c2c&height=180&section=header&text=Luana Nadai&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5592e2,40:8739c1,100:d12c2c&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=<+HELLO+WORLD+!+/>;BE+WELCOME!+=^.^=)](https://git.io/typing-svg)
 
@@ -7,7 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-nadai&layout=compact&hide_border=true&title_color=f096f0&text_color=fff&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=lua-nadai&theme=rogue&hide_border=true&area=true)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanadai/)](https://www.linkedin.com/in/luanadai/)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f56c48?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/afsnadai/)](https://www.instagram.com/afsnadai/)&nbsp;
  
