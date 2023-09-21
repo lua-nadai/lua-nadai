@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=<+HELLO+WORLD+!+/>;BE+WELCOME!+=^.^=)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lua-nadai&show_icons=true&count_private=true&hide_border=true&title_color=f096f0&icon_color=e66f6f&text_color=fff&bg_color=0d1117" alt="Luana Nadai github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-nadai&layout=compact&hide_border=true&title_color=f096f0&text_color=fff&bg_color=0d1117" />
+<div align="flex-start">  
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-nadai&layout=compact&hide_border=true&title_color=f096f0&text_color=fff&bg_color=0d1117" />
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanadai/)](https://www.linkedin.com/in/luanadai/)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f56c48?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/afsnadai/)](https://www.instagram.com/afsnadai/)&nbsp;
- 
+
 ### Main skills:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
